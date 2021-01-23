@@ -5,6 +5,7 @@
 </head>
 <body>
 	<?php
+	// halloj
 		include(',,/dbconnection.php');
 		try{
 			$sql = "CREATE TABLE user(
